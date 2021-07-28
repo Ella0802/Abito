@@ -98,7 +98,7 @@ body {
   margin-bottom: 20px;
 }
 .card:not(:nth-child(3n)) {
-  margin-right: 20px;
+  margin-right: 18px;
 }
 .card-title {
   font-size: 16px;
