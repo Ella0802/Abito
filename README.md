@@ -7,3 +7,5 @@
 - HTML
 - CSS
 - Normalize
+- JS
+- swiperjs
